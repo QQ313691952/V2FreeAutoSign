@@ -40,3 +40,5 @@
 2023-11-14 09:24:34,172	INFO	n*******@l***.com->{'ret': 0, 'msg': '您似乎已经签到过了...'}
 2023-11-15 08:46:46,628	INFO	n*******@l***.com->{'ret': 1, 'msg': '登录成功'}
 2023-11-15 08:46:47,140	INFO	n*******@l***.com->{'msg': '获得了 420MB 流量.', 'unflowtraffic': 2363490304, 'traffic': '2.2GB', 'trafficInfo': {'todayUsedTraffic': '52.1KB', 'lastUsedTraffic': '281.74MB', 'unUsedTraffic': '1.93GB'}, 'ret': 1}
+2023-11-16 08:47:41,394	INFO	n*******@l***.com->{'ret': 1, 'msg': '登录成功'}
+2023-11-16 08:47:41,737	INFO	n*******@l***.com->{'msg': '获得了 407MB 流量.', 'unflowtraffic': 2790260736, 'traffic': '2.6GB', 'trafficInfo': {'todayUsedTraffic': '95.88KB', 'lastUsedTraffic': '603.49MB', 'unUsedTraffic': '2.01GB'}, 'ret': 1}
