@@ -60,3 +60,5 @@
 2023-11-24 08:45:34,504	INFO	n*******@l***.com->{'msg': '获得了 486MB 流量.', 'unflowtraffic': 6558842880, 'traffic': '6.11GB', 'trafficInfo': {'todayUsedTraffic': '0B', 'lastUsedTraffic': '1.13GB', 'unUsedTraffic': '4.98GB'}, 'ret': 1}
 2023-11-25 08:44:20,064	INFO	n*******@l***.com->{'ret': 1, 'msg': '登录成功'}
 2023-11-25 08:44:20,389	INFO	n*******@l***.com->{'msg': '获得了 450MB 流量.', 'unflowtraffic': 7030702080, 'traffic': '6.55GB', 'trafficInfo': {'todayUsedTraffic': '0B', 'lastUsedTraffic': '1.19GB', 'unUsedTraffic': '5.36GB'}, 'ret': 1}
+2023-11-26 08:50:46,341	INFO	n*******@l***.com->{'ret': 1, 'msg': '登录成功'}
+2023-11-26 08:50:46,654	INFO	n*******@l***.com->{'msg': '获得了 447MB 流量.', 'unflowtraffic': 7499415552, 'traffic': '6.98GB', 'trafficInfo': {'todayUsedTraffic': '0B', 'lastUsedTraffic': '1.19GB', 'unUsedTraffic': '5.8GB'}, 'ret': 1}
