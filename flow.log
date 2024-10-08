@@ -696,3 +696,5 @@
 2024-10-06 08:53:30,528	INFO	3********@q*.com->签到阶段出现异常,请确认账号信息是否正确:JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
 2024-10-07 08:51:14,351	INFO	3********@q*.com->{'ret': 0, 'msg': '邮箱不存在'}
 2024-10-07 08:51:14,751	INFO	3********@q*.com->签到阶段出现异常,请确认账号信息是否正确:JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2024-10-08 08:48:32,969	INFO	3********@q*.com->{'ret': 0, 'msg': '邮箱不存在'}
+2024-10-08 08:48:33,517	INFO	3********@q*.com->签到阶段出现异常,请确认账号信息是否正确:JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
